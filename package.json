@@ -21,6 +21,7 @@
   },
   "config": {
     "forge": {
+      "icon": "./icons.icns",
       "make_targets": {
         "win32": [
           "squirrel"
